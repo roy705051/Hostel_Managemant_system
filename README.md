@@ -3,11 +3,6 @@ THIS  HOSTEL MANAGEMENT SYSTEM USING ADVANCE JAVA
 Where i develop a website  OF HOSTE MANAGEMENT SYSTEM using JAVA ,CSS, HTML, JAVASCRIPT ,JSP
 This was very interesting  project and i get good experience  in web development  using advance java
 All the file are present  in read me in project
-# HOSTEL-MANAGEMENT-SYSTEM
-THIS  HOSTEL MANAGEMENT SYSTEM USING ADVANCE JAVA
-Where i develop a website  OF HOSTE MANAGEMENT SYSTEM using JAVA ,CSS, HTML, JAVASCRIPT ,JSP
-This was very interesting  project and i get good experience  in web development  using advance java
-All the file are present  in read me in project
 
 ## Hostel Management System
 The Hostel Management System is a comprehensive solution designed to streamline the management of hostel facilities within an educational institution. Developed using JSP (JavaServer Pages), HTML, and integrated with an Oracle database, this system offers an efficient and user-friendly interface for both administrators and hostel residents.
